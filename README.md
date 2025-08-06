@@ -8,7 +8,11 @@ From udemy course sectrion 1 2 and 3 is done
 <ul>
 <li>capstone project</li>
 <li>CSS started</li>
-  
 </ul>
 
+#06/08/2025
+<ul>
+<li>section 6 started</li>
+<li>Colour, Font</li>
+</ul>
 
