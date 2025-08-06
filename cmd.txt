@@ -3,3 +3,5 @@ git add .
 git commit -m "Day 1: Completed HTML basics - headings, paragraphs, lists"
 
 git push origin main
+
+git pull origin main --rebase
