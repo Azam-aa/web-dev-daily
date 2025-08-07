@@ -16,3 +16,8 @@ From udemy course sectrion 1 2 and 3 is done
 <li>Colour, Font</li>
 </ul>
 
+#07/08/2025
+<ul>
+<li>section 7 started</li>
+<li>Flag project</li>
+</ul>
