@@ -20,4 +20,6 @@ From udemy course sectrion 1 2 and 3 is done
 <ul>
 <li>section 7 started</li>
 <li>Flag project</li>
+<li>Position</li>
+<li>Selectors</li>
 </ul>
