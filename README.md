@@ -24,4 +24,5 @@ From udemy course sectrion 1 2 and 3 is done
 <li>Selectors</li>
   <li>section 8</li>
   <li>section 9</li>
+  <li>section 10</li>
 </ul>
